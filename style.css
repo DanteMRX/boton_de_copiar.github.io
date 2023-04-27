@@ -1,0 +1,42 @@
+.contenedor {
+    display: flex;
+    align-items: center;
+    background-color: #252525;
+    color: #eee;
+    border-radius: px;
+    padding: 16px;
+  }
+  
+  .codigo-ejemplo {
+    background-color: #1e1e1e;
+    border: none;
+    color: #eee;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-x: auto;
+    padding: 16px;
+    margin: 0;
+    border-radius: 8px;
+  }
+  
+  .btn-copiar {
+    background-color: #444;
+    border: none;
+    color: #eee;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 8px 12px;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+    border-radius: 4px;
+  }
+  
+  .btn-copiar:hover {
+    background-color: #373737;
+  }
+  
+  
+  
+  

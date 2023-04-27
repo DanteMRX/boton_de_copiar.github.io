@@ -1,0 +1,21 @@
+body {
+    background-color: #1a1a1a;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+    padding: 1rem 5rem 3rem 5rem; /* top, right, bottom, left */
+    color: #fff;
+    background: linear-gradient(to bottom right, #212121, #1a1a1a);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin-bottom: 10rem; /* Agregamos margen inferior */
+  }
+  
+  .container {
+    height: calc(100 - 100);
+  }
+  
