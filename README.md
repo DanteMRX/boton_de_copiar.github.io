@@ -9,5 +9,12 @@ Diseñado con CSS para tener una apariencia atractiva y ajustarse al diseño de 
 aqui te dejo el codigo en CodePen, es una plataforma para crear y compartir proyectos web. https://codepen.io/SalvadorDante/pen/yLRXzQZ
 
 
+--------------------------------------------------------------------------------
+https://danteproyect.github.io/boton_de_copiar.github.io/
+-----------------------------------------------------------------------------------
+
+
+
+
 
 
